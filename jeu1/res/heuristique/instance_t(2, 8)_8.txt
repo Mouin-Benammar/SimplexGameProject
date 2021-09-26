@@ -1,0 +1,6 @@
+t = [
+[ 0 8 1 0 4 0 6 0 ];
+[ 4 6 3 7 0 2 0 1 ]
+]
+solveTime = -1
+isOptimal = true

@@ -1,0 +1,7 @@
+t = [
+[ 2 3 ];
+[ 0 1 ];
+[ 0 0 ]
+]
+solveTime = -1
+isOptimal = true

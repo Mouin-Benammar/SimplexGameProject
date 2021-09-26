@@ -1,0 +1,6 @@
+t = [
+[ 0 5 ];
+[ 2 4 ]
+]
+solveTime = 0.09400010108947754
+isOptimal = true
